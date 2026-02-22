@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital city of Australia?",
+    "ground_truth": "Canberra"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "ground_truth": "Jane Austen"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius at standard pressure?",
+    "ground_truth": "100"
+  }
+]

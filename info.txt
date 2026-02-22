@@ -1,0 +1,13 @@
+rag-evaluation/
+├── requirements.txt
+├── pyproject.toml                # optional but recommended (for poetry or modern tools)
+├── .gitignore
+├── README.md
+├── data/
+│   └── testset.json
+└── src/
+    ├── __init__.py
+    ├── config.py
+    ├── evaluation.py
+    ├── rag_agent.py
+    └── main.py

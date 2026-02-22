@@ -1,0 +1,14 @@
+# Core
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0          # or langchain-anthropic, langchain-groq, etc.
+
+# Evaluation
+ragas>=0.1.9                     # very popular RAG evaluation library
+datasets>=2.18.0
+
+# Optional but useful
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pydantic>=2.0
