@@ -73,7 +73,10 @@ Here are a few ways to resolve this issue:
  ```shell 
 python -m src.your_script
 ``` 
-
+For a script named main.py inside src, you would run: 
+```shell
+python -m src.main
+```
 2. Add the parent directory of src to `PYTHONPATH`
    You can explicitly tell Python where to look for the 'src' module by adding its parent directory to the `PYTHONPATH` environment variable.
    Linux/macOS (current session)
